@@ -18,3 +18,8 @@ Data Science Portfolio
 * We are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations.
 * Analysis Results are-
 * -A Linear Regression Model that will be a good way for management to understand the demand dynamics of a new market.
+# [Assingment 4- Lead score] (https://github.com/Kartikey279/Learning-Codes/blob/main/CaseStudy_EDA.ipynb)
+* Analysis	 is	 being	 done	 for	 X	 Education	 Company	 to	 increase	 the	 number	 of	people	join	their	courses.	At	present,	sales	teams	conversion	rate	is	around	39	%,	we	want	to	make	it	atleast	80%.
+* Analysis Results are-
+* - We added a column lead score, which consists of scores from 0-100 and with the help of it, company now can easily select the people to call.
+* - A Model was made with accuracy of 90 percent.
