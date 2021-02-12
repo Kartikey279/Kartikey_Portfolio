@@ -14,3 +14,7 @@ Data Science Portfolio
 * We have to find those countries which are in dire need of help by analyzing different factors we have been provided to divide countries in different group with the help of clustering.
 * Anaysis Results are-
 * - By analysing different types of graphs, heatmap and clustering platforms we got to an outcome of the name of the countries that are in need with the help of three different groups of clusters based on the different types of information provided to us, and we classified formulated and derived to this list of countries with the help of three main factors that are- Child_mort, GDPP and Income. 
+# [Assingment 3- Linear Regression Model] (https://github.com/Kartikey279/Learning-Codes/blob/main/Linear%20regression%20model%20assingment.ipynb)
+* We are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations.
+* Analysis Results are-
+* -A Linear Regression Model that will be a good way for management to understand the demand dynamics of a new market.
