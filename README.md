@@ -9,3 +9,8 @@ Data Science Portfolio
 * As per the data, working people take most loan and they are ones who default most. 
 * As per the data, secondary/secondary special people take most loan and they are ones who default most, married people default most.
 * As per the data, most approved loans are for Cash-loans , for working People, for production combination of POS Household with interest.
+# Assingment 2- Clustering
+* We have been provided with different types of datasets of different socio-economic and health factors of different countries around the world by NGO
+* We have to find those countries which are in dire need of help by analyzing different factors we have been provided to divide countries in different group with the help of clustering.
+* Anaysis Results are-
+* - By analysing different types of graphs, heatmap and clustering platforms we got to an outcome of the name of the countries that are in need with the help of three different groups of clusters based on the different types of information provided to us, and we classified formulated and derived to this list of countries with the help of three main factors that are- Child_mort, GDPP and Income. 
