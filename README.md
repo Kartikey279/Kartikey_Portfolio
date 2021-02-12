@@ -1,6 +1,6 @@
 ## Kartikey_Portfolio
 Data Science Portfolio
-# Assingment 1- EDA Case Study
+# [Assingment 1- EDA Case Study] (https://github.com/Kartikey279/Learning-Codes/blob/main/CaseStudy_EDA.ipynb)
 * We have to use EDA to analyse the patterns present in the provided data. That will ensure that the applicants capable of repaying the loan are not rejected.
 * As per the data provided, percentage of people who have defaulted is at 8.1% whereas non-defaulted are 91.9%. 
 * Some of the Analysis Results are-
