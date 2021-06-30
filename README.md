@@ -25,3 +25,13 @@ Data Science Portfolio
 * - A Model was made with accuracy of 90 percent.
 # Daily Codes
 * Different types of codes for hand on Practice
+* Factorial of Number
+* Finding the Given value in a List
+* Hollow 90 Degree Triangle 
+* Max and Min of Array
+* Occurrence
+* Palindrome
+* Pattern Program
+* Reverse of a string
+* Swapping - 3ways
+* Armstrong Number
