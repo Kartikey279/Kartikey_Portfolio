@@ -23,5 +23,5 @@ Data Science Portfolio
 * Analysis Results are-
 * - We added a column lead score, which consists of scores from 0-100 and with the help of it, company now can easily select the people to call.
 * - A Model was made with accuracy of 90 percent.
-# Assingment 4- Netflix EDA
-* We have data of Netflix OTT platform, and we will perform EDA for reccomendation on this data.
+# Daily Codes
+* Different types of codes for hand on Practice
