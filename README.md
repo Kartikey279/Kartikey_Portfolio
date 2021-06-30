@@ -35,3 +35,4 @@ Data Science Portfolio
 * Reverse of a string
 * Swapping - 3ways
 * Armstrong Number
+* Prime Number
