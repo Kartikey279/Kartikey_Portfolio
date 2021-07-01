@@ -36,3 +36,4 @@ Data Science Portfolio
 * Swapping - 3ways
 * Armstrong Number
 * Prime Number
+* Square pattern filled with numbers
