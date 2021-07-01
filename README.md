@@ -37,3 +37,4 @@ Data Science Portfolio
 * Armstrong Number
 * Prime Number
 * Square pattern filled with numbers
+* Pyramid Patter with numbers
