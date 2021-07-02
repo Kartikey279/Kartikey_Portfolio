@@ -38,3 +38,5 @@ Data Science Portfolio
 * Prime Number
 * Square pattern filled with numbers
 * Pyramid Patter with numbers
+* Anagram
+* Palindromic Prime Number
