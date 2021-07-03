@@ -40,3 +40,4 @@ Data Science Portfolio
 * Pyramid Patter with numbers
 * Anagram
 * Palindromic Prime Number
+* Bubble Sort
