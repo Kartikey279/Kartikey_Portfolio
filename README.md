@@ -41,3 +41,4 @@ Data Science Portfolio
 * Anagram
 * Palindromic Prime Number
 * Bubble Sort
+* Finding the First Non Repeating Number
