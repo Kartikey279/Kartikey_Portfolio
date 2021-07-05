@@ -42,3 +42,4 @@ Data Science Portfolio
 * Palindromic Prime Number
 * Bubble Sort
 * Finding the First Non Repeating Number
+* Matrix Multiplication
