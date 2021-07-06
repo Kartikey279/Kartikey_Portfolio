@@ -43,3 +43,5 @@ Data Science Portfolio
 * Bubble Sort
 * Finding the First Non Repeating Number
 * Matrix Multiplication
+* Pairs Accumulating Sum
+* 
