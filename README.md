@@ -44,4 +44,5 @@ Data Science Portfolio
 * Finding the First Non Repeating Number
 * Matrix Multiplication
 * Pairs Accumulating Sum
+* Missing Value in Array-2 different methods
 * 
