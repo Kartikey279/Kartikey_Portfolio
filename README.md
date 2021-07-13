@@ -48,3 +48,4 @@ Data Science Portfolio
 * Subsequence of String
 * Common Element
 * Recursion Question with Solution
+* Question- 2 Trainee Output
